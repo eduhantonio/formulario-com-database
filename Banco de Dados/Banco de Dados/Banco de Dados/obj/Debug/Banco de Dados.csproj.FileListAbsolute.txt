@@ -1,0 +1,10 @@
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\bin\Debug\Banco de Dados.exe.config
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\bin\Debug\Banco de Dados.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\bin\Debug\Banco de Dados.pdb
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\obj\Debug\Banco de Dados.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\obj\Debug\Banco_de_Dados.Form1.resources
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\obj\Debug\Banco_de_Dados.Properties.Resources.resources
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\obj\Debug\Banco de Dados.csproj.GenerateResource.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\obj\Debug\Banco de Dados.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\obj\Debug\Banco de Dados.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\Banco de Dados\Banco de Dados\obj\Debug\Banco de Dados.pdb
